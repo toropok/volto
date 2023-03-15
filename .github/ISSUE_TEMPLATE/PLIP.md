@@ -1,5 +1,5 @@
 ---
-name: "\U0001F680 PLIP"
+name: "\U0001F680 PLIP / Feature request"
 about: Plone Improvement Proposal
 title: ''
 labels: ''
